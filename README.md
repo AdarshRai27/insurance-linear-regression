@@ -16,27 +16,27 @@ Smoker Status
 Region
 
 ⚙️Project Workflow
-🔹 1. Exploratory Data Analysis (EDA)
+1. Exploratory Data Analysis (EDA)
 Distribution plots and boxplots
 Correlation heatmap
 Outlier detection using IQR
-🔹 2. Data Preprocessing
+2. Data Preprocessing
 Handling missing values (none found)
 Encoding categorical variables (One-Hot Encoding)
 Feature scaling using StandardScaler
-🔹 3. Model Building
+3. Model Building
 Simple Linear Regression (using smoker_yes)
 Multiple Linear Regression (using all features)
-🔹 4. Gradient Descent (From Scratch)
+4. Gradient Descent (From Scratch)
 Implemented manually without sklearn
 Optimized parameters using iterative updates
 Visualized loss convergence
-🔹 5. Model Evaluation
+5. Model Evaluation
 Mean Absolute Error (MAE)
 Mean Squared Error (MSE)
 Root Mean Squared Error (RMSE)
 R² Score
-🔹 6. Advanced Techniques
+6. Advanced Techniques
 Polynomial Regression (degree = 2)
 Ridge Regression (L2 Regularization)
 Lasso Regression (L1 Regularization)
